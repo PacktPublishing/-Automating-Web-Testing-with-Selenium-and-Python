@@ -1,0 +1,18 @@
+<html>
+
+<script>
+function displayAllCookies(){
+  var newElem = document.createElement("p");
+  newElem.innerHTML = document.cookie;
+  document.body.appendChild(newElem);
+}
+</script>
+
+<body>
+  <button id='john' type="button" onclick="document.cookie='firstname=John;'">Create Cookie: John</button>
+  <br><br>
+  <button id='doe' type="button" onclick="document.cookie='lastname=Doe; expires=Thu, 01 Jan 2019 00:00:00 UTC;'">Create Cookie: Doe</button>
+  <br><br>
+  <button id='display_all' type="button" onclick="displayAllCookies();">Display all cookies</button>
+</body>
+</html>
