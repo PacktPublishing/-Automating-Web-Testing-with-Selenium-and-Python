@@ -45,7 +45,3 @@ Python 3.6/basic programming skills <br/>
 * [Mastering Selenium Testing Tools [Video]](https://www.packtpub.com/web-development/mastering-selenium-testing-tools-video)
 
 * [Design a Selenium Test Framework from Scratch-Architect level [Video]](https://www.packtpub.com/application-development/design-selenium-test-framework-scratch-architect-level-video)
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781789614473">https://packt.link/free-ebook/9781789614473 </a> </p>
